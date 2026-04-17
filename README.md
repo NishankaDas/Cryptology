@@ -52,23 +52,14 @@ This repository focuses on the implementation of **classical and modern cryptogr
 
 ---
 
-### 3. ⚡ Modular Exponentiation
+### 3. ⚡ Number Theory Problems
 - Square-and-Multiply Algorithm  
 - Computes: `a^m mod n`
-
----
-
-### 4. 🧮 Extended Euclidean Algorithm
+- Extended Euclidean Algorithm
 - Computes: `gcd(a, b) = ax + by`
-
----
-
-### 5. 🔄 Modular Multiplicative Inverse
+- Modular Multiplicative Inverse
 - Computes: `a⁻¹ mod n`
-
----
-
-### 6. 📊 Euler’s Totient Function
+- Euler’s Totient Function
 - Computes: `φ(n)`
 
 ---
