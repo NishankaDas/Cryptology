@@ -6,6 +6,8 @@ This repository contains assignment programs developed for the course:
 Master’s Program in Computer Science  
 Ramakrishna Mission Vivekananda Centenary College, Rahara  
 
+Instructed by Prof. Goutam Kumar Paul, ISI, Kolkata
+
 ---
 
 ## 📌 Overview
