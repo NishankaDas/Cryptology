@@ -72,6 +72,8 @@ This repository focuses on the implementation of **classical and modern cryptogr
 - AES (Advanced Encryption Standard)
 - RC4 Stream Cipher
 - RSA Algorithm
+- Salsa
+- ChaCha
 
 ---
 
