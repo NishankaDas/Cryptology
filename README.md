@@ -8,6 +8,11 @@ Ramakrishna Mission Vivekananda Centenary College, Rahara
 
 Instructed by Prof. Goutam Kumar Paul, ISI, Kolkata
 
+
+# The JUST FUN Section
+
+This is from the NPTEL Course:  Theory and Practice of Modern Cryptography - Prof. Sourav Mukhopadhyay, IIT KGP
+
 ---
 
 ## 📌 Overview
